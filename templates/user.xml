@@ -45,4 +45,9 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="rte" value="throw new RuntimeException(&quot;$END$&quot;, $END$);" description="throw new RuntimeException" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
