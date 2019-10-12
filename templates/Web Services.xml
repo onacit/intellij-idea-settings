@@ -1,0 +1,9 @@
+<templateSet group="Web Services">
+  <template name="rnn" value="java.util.Objects.requireNonNull($VAR$, &quot;$VAR$ is null&quot;)" description="requireNonNull(&quot;$END$ is null&quot;)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
