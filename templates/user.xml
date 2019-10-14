@@ -14,7 +14,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="author" value="@author Jin Kwon &amp;lt;onacit_at_wemakeprice.com&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
+  <template name="author" value="@author Jin Kwon &amp;lt;onacit_at_gmail.com&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
     </context>
@@ -37,6 +37,11 @@
     </context>
   </template>
   <template name="authorg" value="@author Jin Kwon &amp;lt;onacit_at_gmail.com&amp;gt;" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="authorwmp" value="@author Jin Kwon &amp;lt;onacit_at_wemakeprice.com&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
     </context>
