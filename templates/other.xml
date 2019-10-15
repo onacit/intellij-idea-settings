@@ -1,5 +1,5 @@
 <templateSet group="other">
-  <template name="list" value="java.util.List&lt;$EXPR$&gt;" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="list" value="java.util.List&lt;$EXPR$&gt;" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="EXPR" expression="variableOfType(Type)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
