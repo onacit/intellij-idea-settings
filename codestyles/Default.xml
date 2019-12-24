@@ -4,5 +4,7 @@
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
   </codeStyleSettings>
 </code_scheme>
