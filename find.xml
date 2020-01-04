@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'newbiz-spring-data-jpa-base8'" />
-    <option name="defaultScopeName" value="Project 'newbiz-spring-data-jpa-base8'" />
+    <option name="customScope" value="Project 'tour-spring-data-jpa-base8'" />
+    <option name="defaultScopeName" value="Project 'tour-spring-data-jpa-base8'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'newbiz-spring-data-jpa-base8'" />
+    <option name="SEARCH_SCOPE" value="Project 'tour-spring-data-jpa-base8'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
