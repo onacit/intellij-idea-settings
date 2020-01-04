@@ -46,7 +46,7 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="ifnpe" value="if ($VARIABLE$ == null) {&#10;    throw new NullPointerException(&quot;$VARIABLE$ is null&quot;);&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="ifnpe" value="if ($VARIABLE$ == null) {&#10;    throw new NullPointerException(&quot;$VARIABLE$ is null&quot;);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
