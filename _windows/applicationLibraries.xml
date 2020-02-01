@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.8 (verbose-hello-world) interpreter library">
+    <library name="Python 3.8 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/scoop/apps/python/current/DLLs" />
         <root url="file://$USER_HOME$/scoop/apps/python/current/Lib" />
