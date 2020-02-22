@@ -1,0 +1,17 @@
+<templateSet group="Android">
+  <template name="npe" value="throw new NullPointerException(&quot;$END$ is null&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="iae" value="throw new IllegalArgumentException(&quot;$END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ise" value="throw new IllegalStateException(&quot;$END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

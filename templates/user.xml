@@ -1,37 +1,54 @@
 <templateSet group="user">
-  <template name="hcl" value="// -----------------------------------------------------------------------------------------------------------------" description="" toReformat="false" toShortenFQNames="true">
+  <template name="hcl" value="// -----------------------------------------------------------------------------------------------------------------" description="Horozontal" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="slf4j" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger(java.lang.invoke.MethodHandles.lookup().lookupClass());&#10;" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="slf" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger(java.lang.invoke.MethodHandles.lookup().lookupClass());" description="" toReformat="true" toShortenFQNames="true">
+  <template name="jul" value="private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(java.lang.invoke.MethodHandles.lookup().lookupClass().getName());" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="jul" value="private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(MethodHandles.lookup().lookupClass().getName());&#10;" description="" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="author" value="@author Jin Kwon &amp;lt;onacit_at_gmail.com&amp;gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="author" value="@author Jin Kwon &amp;lt;onacit_at_gmail.com&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="iae" value="throw new IllegalArgumentException(&quot;$END$&quot;);" description="throw new IllegalArgumentException" toReformat="true" toShortenFQNames="true">
+  <template name="uoe" value="throw new UnsupportedOperationException(&quot;unsupported operation; $END$&quot;);" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="npe" value="throw new NullPointerException(&quot;$END$ is null&quot;);" description="throw new NullPointerException(&quot;$END$&quot;);" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="rnn" value="java.util.Objects.requireNonNull($VARIABLE$, &quot;$VARIABLE$ is null&quot;)" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="niy" value="throw new UnsupportedOperationException(&quot;not implemented yet&quot;);" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ise" value="throw new IllegalStateException(&quot;$END$&quot;);" description="throw new IllegalStateException(&quot;$END$&quot;);" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="authorg" value="@author Jin Kwon &amp;lt;onacit_at_gmail.com&amp;gt;" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="authorwmp" value="@author Jin Kwon &amp;lt;onacit_at_wemakeprice.com&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="javadoctostring" value="/**&#10; * Returns a string representation of the object.&#10; *&#10; * @return a string representation of the object.&#10; */" description="Javadoc for toString" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>

@@ -1,9 +1,95 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/gitcl/github.com/cookker/htmlparser" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/github.com/onacit/urlparser" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/github.com/onacit/wmp-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/gitlab.wonders.work/ads-platform/point" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/gitlab.wonders.work/tour_service/hms-front-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/gitlab.wonders.work/tour_service/hms_scheduler" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/gitlab.wonders.work/tour_service/tour-coupon_api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/gitlab.wonders.work/tour_service/tour-front-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/gitlab.wonders.work/tour_service/tour-pay-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/nbztb/tour-open-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/ad-batch/cache" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/ad-search-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/ad-search-gw" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/ad-web" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/advertiser-center" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/advertiser-center/api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/ga-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/sa-platform" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/sa-platform/api/access" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/sa-platform/api/access-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/sa-platform/api/access-api-wmpad" value="PREVIEW" />
+            <entry key="$USER_HOME$/gitcl/stash.wemakeprice.com/wmpad/sa-platform/common-library" value="PREVIEW" />
+            <entry key="$USER_HOME$/tmp/jhpark/wmp_backend" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
