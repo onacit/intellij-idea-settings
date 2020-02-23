@@ -4,7 +4,8 @@
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="D2Coding" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
