@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
   </action>
