@@ -2,8 +2,9 @@
   <component name="SonarLintGlobalSettings">
     <rules>
       <Rule active="false" key="java:S125" />
-      <Rule active="false" key="java:S3864" />
+      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S4349" />
+      <Rule active="false" key="java:S3864" />
     </rules>
   </component>
 </application>
