@@ -2,17 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mwb" type="Native" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="bc" type="PLAIN_TEXT" />
-      <mapping ext="index" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
+      <mapping ext="bc" type="PLAIN_TEXT" />
+      <mapping ext="response" type="PLAIN_TEXT" />
+      <mapping ext="index" type="PLAIN_TEXT" />
       <mapping pattern="WhiteListIpMapper" type="XML" />
     </extensionMap>
   </component>
