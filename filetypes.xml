@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="composer.lock" type="JSON" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -14,6 +15,7 @@
       <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping pattern="WhiteListIpMapper" type="XML" />
+      <mapping pattern="phpunit.xml.dist" type="XML" />
     </extensionMap>
   </component>
 </application>
