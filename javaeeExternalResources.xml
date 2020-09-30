@@ -1,5 +1,13 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/1c608002_xml.xsd" />
+    <resource url="http://xmpp.org/schemas/stanzaerror.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/32d6fd9f_stanzaerror.xsd" />
+    <resource url="https://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/85c7de7f_xml.xsd" />
+    <resource url="https://xmpp.org/schemas/jabber-client.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/854f283d_jabber-client.xsd" />
+    <resource url="https://xmpp.org/schemas/jabber-server.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/d6c3e7b5_jabber-server.xsd" />
+    <resource url="https://xmpp.org/schemas/sasl.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/6e29e274_sasl.xsd" />
+    <resource url="https://xmpp.org/schemas/streamerror.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/8bbb4131_streamerror.xsd" />
+    <resource url="https://xmpp.org/schemas/tls.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/3a9a0c24_tls.xsd" />
   </component>
 </application>
