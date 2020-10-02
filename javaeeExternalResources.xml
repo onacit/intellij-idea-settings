@@ -9,6 +9,7 @@
     <resource url="https://xmpp.org/schemas/jabber-client.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/854f283d_jabber-client.xsd" />
     <resource url="https://xmpp.org/schemas/jabber-server.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/d6c3e7b5_jabber-server.xsd" />
     <resource url="https://xmpp.org/schemas/sasl.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/6e29e274_sasl.xsd" />
+    <resource url="https://xmpp.org/schemas/stanzaerror.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/112aca5c_stanzaerror.xsd" />
     <resource url="https://xmpp.org/schemas/streamerror.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/8bbb4131_streamerror.xsd" />
     <resource url="https://xmpp.org/schemas/tls.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/3a9a0c24_tls.xsd" />
   </component>
