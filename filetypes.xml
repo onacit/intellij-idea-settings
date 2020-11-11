@@ -15,6 +15,8 @@
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="jpql" type="SQL" />
       <mapping pattern="WhiteListIpMapper" type="XML" />
+      <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
+      <mapping pattern="TbSysAccessHistorySchedulerMapper" type="XML" />
     </extensionMap>
   </component>
 </application>
