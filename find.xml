@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'datagokr-api-b090041-lrsrcldinfoservice-proxy-spring'" />
-    <option name="defaultScopeName" value="Project 'datagokr-api-b090041-lrsrcldinfoservice-proxy-spring'" />
-    <option name="SEARCH_SCOPE" value="Project 'datagokr-api-b090041-lrsrcldinfoservice-proxy-spring'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
