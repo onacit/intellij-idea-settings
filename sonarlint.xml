@@ -1,10 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules>
-      <Rule active="false" key="java:S125" />
-      <Rule active="false" key="java:S1854" />
-      <Rule active="false" key="java:S4349" />
-      <Rule active="false" key="java:S3864" />
-    </rules>
+    <option name="nodejsPath" value="C:\Users\onacit\scoop\apps\nodejs-lts\current" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df98dfccdf9edf9cdf9edf99dfcedf9cdf9bdf98df9fdf9edf9edfcfdfcfdfcfdf92df9cdfcfdf9ddf9fdf93df9adfcedf9cdfcfdf93df99df92df9edf9adfccdfcfdf92df9bdf98df9ddfcbdf93df9b</token>
+          <option name="name" value="sonarcloud" />
+          <organizationKey>jinahya-github</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
   </component>
 </application>
