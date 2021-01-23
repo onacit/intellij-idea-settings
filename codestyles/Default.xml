@@ -20,7 +20,7 @@
       </value>
     </option>
   </JetCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </MySQLCodeStyleSettings>
   <codeStyleSettings language="JAVA">
