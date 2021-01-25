@@ -6,6 +6,7 @@
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="bc" type="PLAIN_TEXT" />
