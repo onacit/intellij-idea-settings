@@ -23,9 +23,6 @@
   <MySQLCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </MySQLCodeStyleSettings>
-  <XML>
-    <option name="XML_KEEP_WHITESPACES" value="true" />
-  </XML>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
