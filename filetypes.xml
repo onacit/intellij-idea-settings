@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
+      <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
       <mapping ext="mwb" type="Native" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
