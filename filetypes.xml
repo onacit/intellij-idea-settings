@@ -1,15 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
+      <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mwb" type="Native" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
+      <mapping ext="bak2" type="PLAIN_TEXT" />
+      <mapping ext="bak3" type="PLAIN_TEXT" />
       <mapping ext="bc" type="PLAIN_TEXT" />
       <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
@@ -21,6 +24,8 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
