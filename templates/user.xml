@@ -88,4 +88,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="ajat" value="org.assertj.core.api.Assertions.assertThat($VARIABLE$)" description="Assert.hasText" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
