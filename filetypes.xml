@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
       <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
+      <mapping ext="bat" type="Batch" />
+      <mapping ext="cmd" type="Batch" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -24,8 +26,8 @@
       <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
       <mapping pattern="TbSysAccessHistorySchedulerMapper" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="bat" approved="true" type="Batch" />
-      <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="psd" approved="true" type="Image" />
