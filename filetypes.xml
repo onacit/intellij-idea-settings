@@ -12,11 +12,11 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="bak2" type="PLAIN_TEXT" />
       <mapping ext="bak3" type="PLAIN_TEXT" />
       <mapping ext="bc" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="jpql" type="SQL" />
@@ -24,7 +24,8 @@
       <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
       <mapping pattern="TbSysAccessHistorySchedulerMapper" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="psd" approved="true" type="Image" />
