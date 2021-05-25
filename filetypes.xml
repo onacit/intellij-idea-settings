@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
       <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
       <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
