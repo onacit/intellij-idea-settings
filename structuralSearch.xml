@@ -1,0 +1,7 @@
+<application>
+  <component name="StructuralSearch">
+    <replaceConfiguration name="final argument in setter" text="\((?&lt;text&gt;.+)\)" recursive="false" caseInsensitive="false" type="JAVA" pattern_context="default" reformatAccordingToStyle="false" shortenFQN="false" replacement="(final ${text}\)">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+</application>
