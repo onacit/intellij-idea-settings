@@ -4,6 +4,9 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
   <action id="NewElement" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
