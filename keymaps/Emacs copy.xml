@@ -9,6 +9,7 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt help" />
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="NewElement" />
   <action id="ReformatCode">
