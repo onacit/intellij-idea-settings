@@ -24,6 +24,7 @@
       <mapping pattern="TbSysAccessHistorySchedulerMapper" type="XML" />
       <mapping pattern="WhiteListIpMapper" type="XML" />
       <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
