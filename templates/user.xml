@@ -24,7 +24,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="rnn" value="java.util.Objects.requireNonNull($VARIABLE$, &quot;$VARIABLE$ is null&quot;)" description="Objects.requireNonNull" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="rnn" value="java.util.Objects.requireNonNull($VARIABLE$, &quot;$VARIABLE$ is null&quot;)" description="Objects.requireNonNull" toReformat="true" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
@@ -52,7 +52,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="on" value="java.util.Optional.ofNullable($VARIABLE$)" description="Optional.ofNullable" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="on" value="java.util.Optional.ofNullable($VARIABLE$)" description="Optional.ofNullable" toReformat="true" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -64,13 +64,13 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="oon" value="java.util.Optional.ofNullable($VARIABLE$)" description="Optional.ofNullable" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="oon" value="java.util.Optional.ofNullable($VARIABLE$)" description="Optional.ofNullable" toReformat="true" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="oo" value="java.util.Optional.of($VARIABLE$)" description="Optional.ofNullable" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="oo" value="java.util.Optional.of($VARIABLE$)" description="Optional.ofNullable" toReformat="true" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
