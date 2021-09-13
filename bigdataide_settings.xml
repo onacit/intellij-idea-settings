@@ -16,7 +16,7 @@
           <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
           <option name="groupId" value="HdfsJavaConnectionGroup" />
           <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@8983013607844946536" />
-          <option name="name" value="HDFS" />
+          <option name="name" value="10.30.200.75 (HDFS1)" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
         <ExtendedConnectionData>
@@ -33,7 +33,7 @@
           <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
           <option name="groupId" value="HdfsJavaConnectionGroup" />
           <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@6778084824411294605" />
-          <option name="name" value="10.102.40.91 (nn1)" />
+          <option name="name" value="10.102.40.91 (HDFS0)" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
       </list>
