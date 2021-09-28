@@ -22,4 +22,5 @@
   </action>
   <action id="ServiceView.AddService" />
   <action id="Uml.NewElement" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
