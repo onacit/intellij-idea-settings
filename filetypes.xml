@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
-      <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
       <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
+      <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
+      <mapping ext="avsc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -25,6 +26,7 @@
       <mapping pattern="WhiteListIpMapper" type="XML" />
       <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="avsc" approved="true" type="JavaScript" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
