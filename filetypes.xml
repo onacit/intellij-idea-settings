@@ -25,6 +25,8 @@
       <mapping pattern="TbSysAccessHistorySchedulerMapper" type="XML" />
       <mapping pattern="WhiteListIpMapper" type="XML" />
       <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
+      <mapping ext="proto3" type="protobuf" />
+      <mapping ext="proto2" type="protobuf" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avsc" approved="true" type="JavaScript" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
@@ -33,6 +35,8 @@
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="proto2" approved="true" type="protobuf" />
+      <removed_mapping pattern="proto3" approved="true" type="protobuf" />
     </extensionMap>
   </component>
 </application>
