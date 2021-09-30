@@ -42,8 +42,8 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="_t0SC__presidents_avro_parquet_0.data.csv\presidents.avro.parquet(downloaded)" />
         <option value="d___7_presidents_example_parquet_0.data.csv\presidents.example.parquet(downloaded)" />
+        <option value="_t0SC__presidents_avro_parquet_0.data.csv\presidents.avro.parquet(downloaded)" />
         <option value="___W_i__lqsample_parquet_0.data.csv\sample.parquet(downloaded)" />
         <option value="C_G_Da7Sm_presidents_parquet_avro_0.data.csv\presidents.parquet.avro(downloaded)" />
         <option value="8ns_mD3sample_txt.txt\sample.txt" />
