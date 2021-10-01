@@ -42,14 +42,14 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="rk_zqpresidents_txt.txt\presidents.txt" />
+        <option value="GmGpresidents_noheader_csv_0.data.csv\presidents.noheader.csv(downloaded)" />
+        <option value="Q_5______presidents_header_csv_0.data.csv\presidents.header.csv(downloaded)" />
+        <option value="d___7_presidents_example_parquet_0.data.csv\presidents.example.parquet(downloaded)" />
         <option value="_t0SC__presidents_avro_parquet_0.data.csv\presidents.avro.parquet(downloaded)" />
         <option value="4_____I_mI8presidents_avro_0.data.csv\presidents.avro(downloaded)" />
         <option value="___W_i__lqsample_parquet_0.data.csv\sample.parquet(downloaded)" />
         <option value="2_o___No_j_sample_csv_0.data.csv\sample.csv(downloaded)" />
-        <option value="d___7_presidents_example_parquet_0.data.csv\presidents.example.parquet(downloaded)" />
-        <option value="Q_5______presidents_header_csv_0.data.csv\presidents.header.csv(downloaded)" />
-        <option value="GmGpresidents_noheader_csv_0.data.csv\presidents.noheader.csv(downloaded)" />
-        <option value="rk_zqpresidents_txt.txt\presidents.txt" />
         <option value="H___k6U7Fpresidents_csv_0.data.csv\presidents.csv(downloaded)" />
         <option value="_H_yiq__1Hbsample_avro_0.data.csv\sample.avro(downloaded)" />
       </list>
