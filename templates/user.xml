@@ -100,7 +100,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="aeia" value="throw new AssertionError(&quot;instantiation is not allowed&quot;);" description="" toReformat="true" toShortenFQNames="true">
+  <template name="aeina" value="throw new AssertionError(&quot;instantiation is not allowed&quot;);" description="instantiation is not allowed" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
