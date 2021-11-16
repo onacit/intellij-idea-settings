@@ -1,6 +1,7 @@
 <application>
-  <component name="DatabaseSettings" version="5">
+  <component name="DatabaseSettings" version="7">
     <option name="warn-unsafe-query" value="false" />
+    <option name="ddl-editor-confirm-loss" value="false" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
@@ -14,7 +15,7 @@
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
+      <csv-format name="CSV" id="Comma-separated (CSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
@@ -24,7 +25,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Tab-separated (TSV)" id="Tab-separated (TSV)_id">
+      <csv-format name="TSV" id="Tab-separated (TSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
