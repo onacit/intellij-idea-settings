@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
       <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
+      <mapping pattern="DemoController.java" type="AUTO_DETECTED" />
       <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
       <mapping ext="avsc" type="JSON" />
