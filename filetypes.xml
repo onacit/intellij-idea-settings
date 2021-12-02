@@ -28,6 +28,7 @@
       <mapping pattern="TbSysAccessHistorySchedulerMapper" type="XML" />
       <mapping pattern="WhiteListIpMapper" type="XML" />
       <mapping pattern="TbSysAccessHistorySchedulerMapper.xml" type="XML" />
+      <mapping ext="qrc" type="XML" />
       <mapping ext="proto3" type="protobuf" />
       <mapping ext="proto2" type="protobuf" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
