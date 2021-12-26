@@ -1,0 +1,9 @@
+<keymap version="1" name="Emacs copy 2" parent="Emacs">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
+</keymap>
