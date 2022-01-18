@@ -18,11 +18,11 @@
       <mapping pattern=".remove.me" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="bak2" type="PLAIN_TEXT" />
       <mapping ext="bak3" type="PLAIN_TEXT" />
       <mapping ext="bc" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="response" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping pattern="trnd_qry_mark.sql" type="SQL" />
