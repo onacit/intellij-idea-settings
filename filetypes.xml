@@ -2,20 +2,20 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="getSundryDayInfo" type="AUTO_DETECTED" />
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
       <mapping pattern="getSundryDayInfo.xml" type="AUTO_DETECTED" />
       <mapping pattern="DemoController.java" type="AUTO_DETECTED" />
-      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="AUTO_DETECTED" />
-      <mapping pattern="Jenkinsfile" type="DGM" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="generateIntegerSequences_params_02json" type="JSON" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mwb" type="Native" />
+      <mapping pattern=".remove.me" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping pattern=".remove.me" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -41,6 +41,7 @@
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="DGM" />
       <removed_mapping pattern="proto2" approved="true" type="protobuf" />
       <removed_mapping pattern="proto3" approved="true" type="protobuf" />
     </extensionMap>
