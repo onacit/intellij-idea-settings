@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="mockito-extensions" type="AUTO_DETECTED" />
       <mapping ext="mwb" type="AUTO_DETECTED" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
