@@ -6,6 +6,7 @@
       <mapping pattern="branch_custom_export_ls_wstyle" type="AUTO_DETECTED" />
       <mapping pattern="mockito-extensions" type="AUTO_DETECTED" />
       <mapping ext="mwb" type="AUTO_DETECTED" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
