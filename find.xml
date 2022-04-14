@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'spring-data-jpa-base8-wmp-deal'" />
+    <option name="defaultScopeName" value="Project 'spring-data-jpa-base8-wmp-deal'" />
+    <option name="SEARCH_SCOPE" value="Project 'spring-data-jpa-base8-wmp-deal'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
