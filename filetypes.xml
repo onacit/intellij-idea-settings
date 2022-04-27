@@ -8,6 +8,7 @@
       <mapping ext="mwb" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="properties_" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="lea" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
