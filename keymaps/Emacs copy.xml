@@ -1,4 +1,7 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
