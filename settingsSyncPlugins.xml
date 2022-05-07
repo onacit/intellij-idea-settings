@@ -11,7 +11,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -24,7 +23,6 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -50,7 +48,6 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -75,7 +72,6 @@
                   <option value="com.intellij.javaee.app.servers.integration" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -93,7 +89,6 @@
                   <option value="com.intellij.javaee.app.servers.integration" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -106,14 +101,22 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="JavaScriptDebugger">
           <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="Jenkins Control Plugin">
+          <value>
             <PluginData>
-              <option name="enabled" value="false" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -127,7 +130,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -153,7 +155,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -197,6 +198,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.mikesafonov.jenkins-linter-idea-plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.haulmont.jpab">
           <value>
             <PluginData>
@@ -207,6 +220,7 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -223,9 +237,7 @@
         </entry>
         <entry key="com.intellij.freemarker">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.guice">
@@ -273,7 +285,6 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -300,7 +311,6 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -413,9 +423,7 @@
         </entry>
         <entry key="org.jetbrains.plugins.haml">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.vue">
@@ -446,7 +454,6 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -459,7 +466,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
