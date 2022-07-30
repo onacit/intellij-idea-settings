@@ -8,6 +8,8 @@
       <w>dcate</w>
       <w>disp</w>
       <w>dmlonly</w>
+      <w>fkcolumn</w>
+      <w>fktable</w>
       <w>fnfe</w>
       <w>fspath</w>
       <w>gcate</w>
@@ -24,6 +26,8 @@
       <w>nosonar</w>
       <w>nsfe</w>
       <w>opmode</w>
+      <w>pkcolumn</w>
+      <w>pktable</w>
       <w>pnotice</w>
       <w>prec</w>
       <w>projectlombok</w>
