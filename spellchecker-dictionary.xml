@@ -6,12 +6,17 @@
       <w>cobuy</w>
       <w>coupang</w>
       <w>dcate</w>
+      <w>deferrability</w>
       <w>disp</w>
       <w>dmlonly</w>
+      <w>fkcolumn</w>
+      <w>fktable</w>
       <w>fnfe</w>
       <w>fspath</w>
       <w>gcate</w>
+      <w>generatedcolumn</w>
       <w>gnotice</w>
+      <w>grantable</w>
       <w>hfsf</w>
       <w>jinahya</w>
       <w>jpamodelgen</w>
@@ -22,6 +27,8 @@
       <w>nosonar</w>
       <w>nsfe</w>
       <w>opmode</w>
+      <w>pkcolumn</w>
+      <w>pktable</w>
       <w>pnotice</w>
       <w>prec</w>
       <w>projectlombok</w>
