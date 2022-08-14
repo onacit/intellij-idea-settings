@@ -1,6 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/1c608002_xml.xsd" />
     <resource url="http://xmpp.org/schemas/stanzaerror.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/32d6fd9f_stanzaerror.xsd" />
     <resource url="http://xmpp.org/schemas/x-data.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/89393b89_x-data.xsd" />
