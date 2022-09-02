@@ -2,16 +2,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/onacit/gitcl/bitbucket.wemakeprice.com/logmodel/branch-log-importer/src/main/resources/com/wemakeprice/logmodel/branch/data/domain/full-event-ontology-05312021.csv" />
-        <option value="Users/onacit/gitcl/bitbucket.wemakeprice.com/logmodel/branch-log-importer/src/main/resources/com/wemakeprice/logmodel/branch/data/domain/full-event-ontology-07202022.csv" />
-        <option value="2_o___No_j_sample_csv_0.data.csv/sample.csv(downloaded)" />
-        <option value="_H_yiq__1Hbsample_avro_0.data.csv/sample.avro(downloaded)" />
-        <option value="8ns_mD3sample_txt.txt/sample.txt" />
-        <option value="___W_i__lqsample_parquet_0.data.csv/sample.parquet(downloaded)" />
-        <option value="rk_zqpresidents_txt.txt/presidents.txt" />
-        <option value="_t0SC__presidents_avro_parquet_0.data.csv/presidents.avro.parquet(downloaded)" />
-        <option value="d___7_presidents_example_parquet_0.data.csv/presidents.example.parquet(downloaded)" />
+        <option value="Users/onacit/gitcl/bitbucket.wemakeprice.com/logmodel/kr_wmp_external_log/tune/doc/full-event-ontology-05312021.csv" />
         <option value="Q_5______presidents_header_csv_0.data.csv/presidents.header.csv(downloaded)" />
+        <option value="d___7_presidents_example_parquet_0.data.csv/presidents.example.parquet(downloaded)" />
+        <option value="_t0SC__presidents_avro_parquet_0.data.csv/presidents.avro.parquet(downloaded)" />
+        <option value="rk_zqpresidents_txt.txt/presidents.txt" />
+        <option value="___W_i__lqsample_parquet_0.data.csv/sample.parquet(downloaded)" />
+        <option value="8ns_mD3sample_txt.txt/sample.txt" />
+        <option value="_H_yiq__1Hbsample_avro_0.data.csv/sample.avro(downloaded)" />
+        <option value="2_o___No_j_sample_csv_0.data.csv/sample.csv(downloaded)" />
+        <option value="Users/onacit/gitcl/bitbucket.wemakeprice.com/logmodel/branch-log-importer/src/main/resources/com/wemakeprice/logmodel/branch/data/domain/full-event-ontology-07202022.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/C:\Users\onacit\AppData\Local\Temp\HDFS-downloaded" />
