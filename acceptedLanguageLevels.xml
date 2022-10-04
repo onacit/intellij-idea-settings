@@ -5,6 +5,7 @@
       <name>JDK_17</name>
       <name>JDK_X</name>
       <name>JDK_18</name>
+      <name>JDK_19</name>
     </explicitly-accepted>
   </component>
 </application>
