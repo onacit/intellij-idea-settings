@@ -1,4 +1,7 @@
 <keymap version="1" name="Emacs copy 2" parent="Emacs">
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt help" />
   </action>
