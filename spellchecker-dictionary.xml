@@ -4,12 +4,21 @@
       <w>adaptee</w>
       <w>addr</w>
       <w>assertible</w>
+      <w>bais</w>
+      <w>baos</w>
+      <w>bassword</w>
+      <w>cassword</w>
+      <w>cnfe</w>
       <w>cobuy</w>
       <w>coupang</w>
+      <w>datasync</w>
       <w>dcate</w>
       <w>deferrability</w>
+      <w>delombok</w>
       <w>disp</w>
       <w>dmlonly</w>
+      <w>dpart</w>
+      <w>ephemeron</w>
       <w>fkcolumn</w>
       <w>fktable</w>
       <w>fnfe</w>
@@ -37,6 +46,7 @@
       <w>registe</w>
       <w>scate</w>
       <w>schem</w>
+      <w>sprice</w>
       <w>sqle</w>
       <w>sqlfnse</w>
       <w>trnd</w>
