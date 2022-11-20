@@ -1,6 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="nodejsPath" value="/opt/homebrew/Cellar/node/19.1.0" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S2094">
+          <value>
+            <Rule active="false" key="java:S2094" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <rules>
       <Rule active="false" key="java:S2094" />
     </rules>
