@@ -8,6 +8,7 @@
       <w>baos</w>
       <w>bassword</w>
       <w>cassword</w>
+      <w>chal</w>
       <w>cnfe</w>
       <w>cobuy</w>
       <w>coupang</w>
@@ -39,9 +40,11 @@
       <w>nosonar</w>
       <w>nsfe</w>
       <w>opmode</w>
+      <w>papply</w>
       <w>pkcolumn</w>
       <w>pktable</w>
       <w>pnotice</w>
+      <w>ppolicy</w>
       <w>prec</w>
       <w>projectlombok</w>
       <w>registe</w>
@@ -50,8 +53,11 @@
       <w>sprice</w>
       <w>sqle</w>
       <w>sqlfnse</w>
+      <w>taai</w>
+      <w>tasib</w>
       <w>trnd</w>
       <w>turm</w>
+      <w>unpaged</w>
       <w>urise</w>
       <w>wemakeprice</w>
       <w>wfashion</w>
