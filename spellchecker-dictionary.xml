@@ -5,6 +5,7 @@
       <w>clsf</w>
       <w>cobuy</w>
       <w>coveredratio</w>
+      <w>disp</w>
       <w>excute</w>
       <w>fktable</w>
       <w>icbn</w>
@@ -14,9 +15,11 @@
       <w>longvarbinary</w>
       <w>longvarchar</w>
       <w>mcate</w>
+      <w>naver</w>
       <w>nosonar</w>
       <w>onacit</w>
       <w>pktable</w>
+      <w>pnotice</w>
       <w>regist</w>
       <w>schem</w>
       <w>sprice</w>
