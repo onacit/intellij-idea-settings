@@ -8,6 +8,7 @@
       <w>codespan</w>
       <w>conum</w>
       <w>datatypes</w>
+      <w>deferrability</w>
       <w>dmlonly</w>
       <w>fktable</w>
       <w>generatedcolumn</w>
