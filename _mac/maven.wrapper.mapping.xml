@@ -8,6 +8,7 @@
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.5/apache-maven-3.8.5-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.5-bin/5i5jha092a3i37g0paqnfr15e0/apache-maven-3.8.5" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.6/apache-maven-3.8.6-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.6-bin/1ks0nkde5v1pk9vtc31i9d0lcd/apache-maven-3.8.6" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.7/apache-maven-3.8.7-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.7-bin/1ktonn2lleg549uah6ngl1r74r/apache-maven-3.8.7" />
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.9.0/apache-maven-3.9.0-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.9.0-bin/7u41pcsb933vr4m6u83d7ofakm/apache-maven-3.9.0" />
       </map>
     </option>
   </component>

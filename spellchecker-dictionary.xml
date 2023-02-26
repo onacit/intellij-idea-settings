@@ -10,15 +10,20 @@
       <w>datatypes</w>
       <w>deferrability</w>
       <w>dmlonly</w>
+      <w>fkcolumn</w>
       <w>fktable</w>
       <w>generatedcolumn</w>
       <w>grantable</w>
       <w>hijrah</w>
       <w>jinahya</w>
+      <w>kwon</w>
       <w>nosonar</w>
       <w>noto</w>
+      <w>onacit</w>
+      <w>pkcolumn</w>
       <w>pktable</w>
       <w>postgre</w>
+      <w>ppolicy</w>
       <w>prec</w>
       <w>prepress</w>
       <w>projectlombok</w>
@@ -34,6 +39,7 @@
       <w>uuuu</w>
       <w>wemakeprice</w>
       <w>wfashion</w>
+      <w>wpay</w>
       <w>wstyle</w>
       <w>만족하는</w>
       <w>반환한다</w>

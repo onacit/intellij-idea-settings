@@ -1,15 +1,8 @@
 <code_scheme name="Default" version="173">
-  <XML>
-    <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
-  </XML>
-  <codeStyleSettings language="JAVA">
-    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
+  <JetCodeStyleSettings>
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </JetCodeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
