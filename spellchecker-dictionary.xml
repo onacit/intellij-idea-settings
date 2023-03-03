@@ -10,6 +10,7 @@
       <w>datatypes</w>
       <w>dcate</w>
       <w>deferrability</w>
+      <w>disp</w>
       <w>dmlonly</w>
       <w>fkcolumn</w>
       <w>fktable</w>
@@ -20,6 +21,7 @@
       <w>jinahya</w>
       <w>kwon</w>
       <w>lcate</w>
+      <w>mcate</w>
       <w>naver</w>
       <w>nosonar</w>
       <w>noto</w>
@@ -31,6 +33,7 @@
       <w>prec</w>
       <w>prepress</w>
       <w>projectlombok</w>
+      <w>scate</w>
       <w>schem</w>
       <w>sqle</w>
       <w>sqlfnse</w>
