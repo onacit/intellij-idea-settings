@@ -12,6 +12,7 @@
       <mapping ext="lea" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="x" type="PLAIN_TEXT" />
       <mapping ext="properties_" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
