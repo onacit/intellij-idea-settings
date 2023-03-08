@@ -10,4 +10,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="at" value="org.assertj.core.api.Assertions.assertThat($VARIABLE$)" description="@MethodSource({&quot;&quot;})" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
