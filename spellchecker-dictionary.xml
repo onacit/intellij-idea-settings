@@ -1,64 +1,70 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
-      <w>adaptee</w>
+      <w>adbct</w>
+      <w>affi</w>
+      <w>brandmap</w>
       <w>chrono</w>
       <w>clsf</w>
-      <w>cnfe</w>
       <w>cobuy</w>
-      <w>codespan</w>
-      <w>conum</w>
       <w>coupang</w>
-      <w>datatypes</w>
+      <w>coveredratio</w>
+      <w>curdate</w>
       <w>dcate</w>
-      <w>deferrability</w>
       <w>disp</w>
       <w>dmlonly</w>
-      <w>fkcolumn</w>
+      <w>excute</w>
       <w>fktable</w>
       <w>gcate</w>
-      <w>generatedcolumn</w>
       <w>gnotice</w>
-      <w>grantable</w>
-      <w>hijrah</w>
-      <w>jinahya</w>
+      <w>hardcoding</w>
+      <w>icbn</w>
+      <w>interset</w>
+      <w>iotn</w>
+      <w>javaformat</w>
       <w>kwon</w>
       <w>lcate</w>
+      <w>longvarbinary</w>
+      <w>longvarchar</w>
       <w>mcate</w>
+      <w>mngr</w>
       <w>naver</w>
       <w>nosonar</w>
-      <w>noto</w>
       <w>onacit</w>
-      <w>pkcolumn</w>
+      <w>pcstamp</w>
       <w>pktable</w>
-      <w>postgre</w>
+      <w>pnotice</w>
       <w>ppolicy</w>
-      <w>prec</w>
-      <w>prepress</w>
       <w>projectlombok</w>
+      <w>regist</w>
+      <w>revinfo</w>
+      <w>revtstmp</w>
+      <w>revtype</w>
       <w>scate</w>
       <w>schem</w>
-      <w>showhost</w>
+      <w>servicegw</w>
       <w>sprice</w>
-      <w>sqle</w>
-      <w>sqlfnse</w>
-      <w>supertable</w>
-      <w>tfrp</w>
+      <w>taahbu</w>
+      <w>taaiw</w>
+      <w>taxbill</w>
+      <w>tcrr</w>
+      <w>tcutr</w>
+      <w>tdsc</w>
+      <w>tdsm</w>
       <w>tfrpal</w>
-      <w>traverson</w>
-      <w>udts</w>
-      <w>uids</w>
+      <w>tpcm</w>
+      <w>tpsc</w>
+      <w>trbi</w>
+      <w>treq</w>
+      <w>trnd</w>
       <w>uuuu</w>
+      <w>wapi</w>
       <w>wemakeprice</w>
       <w>wfashion</w>
+      <w>wkms</w>
       <w>wpay</w>
+      <w>wsin</w>
       <w>wstyle</w>
-      <w>만족하는</w>
-      <w>반환한다</w>
-      <w>변경한다</w>
-      <w>사용된다</w>
-      <w>삭제한다</w>
-      <w>해당하는</w>
     </words>
   </component>
 </application>
