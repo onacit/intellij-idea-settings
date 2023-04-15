@@ -1,0 +1,15 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="839ce5e4-ba2e-391a-843e-04bd17af94ec" baseUri="https://bitbucket.wemakeprice.com/" />
+      <instance uuid="ea54f473-155e-38bc-8abc-06a1de928774" baseUri="https://stash.wemakeprice.com/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.wemakeprice.com" port="-1" path="/" uuid="839ce5e4-ba2e-391a-843e-04bd17af94ec" />
+      <record scheme="https" hostname="stash.wemakeprice.com" port="-1" path="/" uuid="ea54f473-155e-38bc-8abc-06a1de928774" />
+    </lookup>
+  </component>
+</application>
