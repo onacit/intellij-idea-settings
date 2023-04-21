@@ -8,14 +8,29 @@
             <Rule active="false" key="java:S101" />
           </value>
         </entry>
+        <entry key="java:S112">
+          <value>
+            <Rule active="false" key="java:S112" />
+          </value>
+        </entry>
         <entry key="java:S119">
           <value>
             <Rule active="false" key="java:S119" />
           </value>
         </entry>
+        <entry key="java:S1874">
+          <value>
+            <Rule active="false" key="java:S1874" />
+          </value>
+        </entry>
         <entry key="java:S2094">
           <value>
             <Rule active="false" key="java:S2094" />
+          </value>
+        </entry>
+        <entry key="java:S3011">
+          <value>
+            <Rule active="false" key="java:S3011" />
           </value>
         </entry>
         <entry key="java:S3577">
@@ -26,6 +41,9 @@
       </map>
     </option>
     <rules>
+      <Rule active="false" key="java:S3011" />
+      <Rule active="false" key="java:S1874" />
+      <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S101" />
       <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S2094" />
