@@ -3,6 +3,11 @@
     <option name="nodejsPath" value="/opt/homebrew/Cellar/node/19.1.0" />
     <option name="rulesByKey">
       <map>
+        <entry key="java:S101">
+          <value>
+            <Rule active="false" key="java:S101" />
+          </value>
+        </entry>
         <entry key="java:S119">
           <value>
             <Rule active="false" key="java:S119" />
@@ -21,9 +26,10 @@
       </map>
     </option>
     <rules>
+      <Rule active="false" key="java:S101" />
+      <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S2094" />
       <Rule active="false" key="java:S3577" />
-      <Rule active="false" key="java:S119" />
     </rules>
   </component>
 </application>
