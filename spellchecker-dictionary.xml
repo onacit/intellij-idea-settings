@@ -27,6 +27,7 @@
       <w>hardcoding</w>
       <w>icbn</w>
       <w>idaaue</w>
+      <w>inbuf</w>
       <w>interset</w>
       <w>iotn</w>
       <w>javaformat</w>
@@ -41,6 +42,7 @@
       <w>nonblank</w>
       <w>nosonar</w>
       <w>onacit</w>
+      <w>outbuf</w>
       <w>pcstamp</w>
       <w>pktable</w>
       <w>pnotice</w>
