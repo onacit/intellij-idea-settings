@@ -32,6 +32,8 @@
       <w>interset</w>
       <w>iotn</w>
       <w>javaformat</w>
+      <w>jinahya</w>
+      <w>jpamodelgen</w>
       <w>keyinfo</w>
       <w>kwon</w>
       <w>lcate</w>
@@ -39,6 +41,7 @@
       <w>longvarchar</w>
       <w>mcate</w>
       <w>mngr</w>
+      <w>modelgen</w>
       <w>naver</w>
       <w>nonblank</w>
       <w>nosonar</w>
