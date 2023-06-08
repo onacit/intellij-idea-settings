@@ -16,4 +16,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="attb" value="org.assertj.core.api.Assertions.assertThatThrownBy(() -&gt; $VARIABLE$)" description="assertThatThrownBy" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
