@@ -10,8 +10,7 @@
     <keyboard-shortcut first-keystroke="alt help" />
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />

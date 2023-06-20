@@ -41,7 +41,7 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="authorwmp" value="@author Jin Kwon &amp;lt;onacit_at_wemakeprice.com&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
+  <template name="authormk" value="@author Jin Kwon &amp;lt;jin.kwon_at_meshkorea.net&amp;gt;" description="@author tag in javadoc" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
     </context>
