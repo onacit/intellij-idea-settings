@@ -11,11 +11,13 @@
       <w>codespan</w>
       <w>conum</w>
       <w>coupang</w>
+      <w>createdat</w>
       <w>datatypes</w>
       <w>dcate</w>
       <w>deferrability</w>
       <w>disp</w>
       <w>dmlonly</w>
+      <w>ebdb</w>
       <w>fetchgraph</w>
       <w>fkcolumn</w>
       <w>fktable</w>
@@ -69,6 +71,7 @@
       <w>tsgedl</w>
       <w>udts</w>
       <w>uids</w>
+      <w>updatedat</w>
       <w>uuuu</w>
       <w>vroong</w>
       <w>wemakeprice</w>
