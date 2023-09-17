@@ -7,15 +7,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="Full" />
               </GrepModel>
             </list>
@@ -26,6 +17,115 @@
             <list>
               <GrepModel>
                 <option name="expression" value="Full GC" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^.+AWT" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^AWT" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="com.github" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="AWT-EventQueue-0" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^AWT-EventQueue-0" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="[^AWT-EventQueue-0]" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^((?!hede).)*$" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^((?!AWT-Event).)*$" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^((?!java\.awt).)*$" />
+                <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="^((?!AWT).)*$" />
+                <option name="regex" value="true" />
               </GrepModel>
             </list>
           </option>
@@ -111,7 +211,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
@@ -295,7 +394,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -303,6 +401,6 @@
         </Profile>
       </list>
     </option>
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </application>
