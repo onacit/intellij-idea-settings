@@ -124,15 +124,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="[^java\.awt\.]" />
                 <option name="regex" value="true" />
               </GrepModel>
@@ -175,6 +166,15 @@
               <GrepModel>
                 <option name="expression" value=".*[^java\.awt\..*].*$" />
                 <option name="regex" value="true" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
