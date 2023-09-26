@@ -5,6 +5,9 @@
         <option value="idea.plugin.protoeditor" />
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.bigdatatools" />
+        <option value="org.dynamodb4idea" />
+        <option value="com.intellij.javaee.ejb" />
+        <option value="com.intellij.jsf" />
       </list>
     </option>
   </component>
