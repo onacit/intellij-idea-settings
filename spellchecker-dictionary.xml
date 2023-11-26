@@ -35,10 +35,13 @@
       <w>grantable</w>
       <w>gubun</w>
       <w>guiness</w>
+      <w>hemd</w>
       <w>hijrah</w>
       <w>hstry</w>
+      <w>jibun</w>
       <w>jinahya</w>
       <w>jpamodelgen</w>
+      <w>kdcd</w>
       <w>kilmer</w>
       <w>kwon</w>
       <w>lcate</w>
@@ -100,11 +103,15 @@
       <w>wpartner</w>
       <w>wpay</w>
       <w>wstyle</w>
+      <w>공동주택</w>
+      <w>공동주택여부</w>
       <w>만족하는</w>
       <w>반환한다</w>
       <w>변경한다</w>
+      <w>비공동주택</w>
       <w>사용된다</w>
       <w>삭제한다</w>
+      <w>시군구명</w>
       <w>해당하는</w>
     </words>
   </component>
