@@ -1,6 +1,7 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="nodejsPath" value="/opt/homebrew/Cellar/node/19.1.0" />
+    <option name="promotionDisabled" value="true" />
     <option name="rulesByKey">
       <map>
         <entry key="java:S101">
@@ -42,12 +43,12 @@
     </option>
     <rules>
       <Rule active="false" key="java:S1874" />
-      <Rule active="false" key="java:S3011" />
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S101" />
+      <Rule active="false" key="java:S2094" />
+      <Rule active="false" key="java:S3011" />
       <Rule active="false" key="java:S119" />
       <Rule active="false" key="java:S114" />
-      <Rule active="false" key="java:S2094" />
     </rules>
   </component>
 </application>
