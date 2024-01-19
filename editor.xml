@@ -60,5 +60,13 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" pattern="\bdone\b.*">
+      <option name="FOREGROUND" value="3db38b" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="2bad73" />
+    </pattern>
+    <filter name="done">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
