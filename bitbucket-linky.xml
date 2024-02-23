@@ -12,5 +12,5 @@
       <record scheme="https" hostname="stash.wemakeprice.com" port="-1" path="/" uuid="ea54f473-155e-38bc-8abc-06a1de928774" />
     </lookup>
   </component>
-  <component name="Instance" id="f91ec194-18c1-4c70-9657-03ff2b5a178a" version="2022.1.240" />
+  <component name="Instance" id="f91ec194-18c1-4c70-9657-03ff2b5a178a" version="2023.1.281" />
 </application>
