@@ -1,6 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="nodejsPath" value="/opt/homebrew/Cellar/node/21.6.1/bin/node" />
+    <option name="nodejsPath" value="/opt/homebrew/bin/node" />
     <option name="rulesByKey">
       <map>
         <entry key="java:S101">
