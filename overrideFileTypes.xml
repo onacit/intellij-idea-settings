@@ -1,6 +1,0 @@
-<application>
-  <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/gitcl/github.com/jinahya/juso-go-kr-api-proxy/.mvn/jvm.config" value="MavenConfig" />
-    <file url="file://$USER_HOME$/gitcl/github.com/jinahya/verbose-hello-world/.mvn/jvm.config" />
-  </component>
-</application>
