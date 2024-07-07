@@ -13,9 +13,5 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
