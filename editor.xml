@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
@@ -26,18 +30,44 @@
     </option>
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.asciidoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old" />
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.java.implicit.types" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.tagged" />
+    <settingsMapElement>
+      <kotlin.kotlin.references.types.hints>
+        <Settings>
+          <option name="localVariableType" value="true" />
+        </Settings>
+      </kotlin.kotlin.references.types.hints>
+    </settingsMapElement>
+  </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" pattern="\bdone\b.*">
-      <option name="FOREGROUND" value="3db38b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="2bad73" />
+    <pattern useCustomColors="true" pattern="// DONE: .+">
+      <option name="FOREGROUND" value="22198b" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="e37549" />
     </pattern>
   </component>
 </application>
