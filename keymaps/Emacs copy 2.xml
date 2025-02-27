@@ -1,10 +1,12 @@
 <keymap version="1" name="Emacs copy 2" parent="Emacs">
+  <action id="AIAssistant.Editor.AskAiAssistantInEditor" />
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="FileChooser.GoToRoot" />
   <action id="FileChooserList.Root" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt help" />
@@ -16,6 +18,10 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="com.codeium.intellij.command.CommandAction">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
