@@ -17,6 +17,7 @@
       </map>
     </option>
     <option name="defaultPosition" value="Right" />
+    <option name="enabled" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
     <option name="enabledOptions">
@@ -90,6 +91,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
+    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old" />
     <settingsMapElement>
       <kotlin.kotlin.references.types.hints>
