@@ -53,8 +53,8 @@
     </option>
     <rules>
       <Rule active="false" key="java:S1874" />
-      <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S101" />
+      <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S2094" />
       <Rule active="false" key="java:S3011" />
       <Rule active="false" key="java:S119" />
