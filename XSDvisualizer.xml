@@ -1,0 +1,15 @@
+<application>
+  <component name="Main.Settings">
+    <tokenD>eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTM4ODczMjV9.NvQ-B09CDYXR55OULcFtphzo-Q4rwR3Ulz5lASCpk-W4IFjJZ8y-lUWCw1gb_DLEq6Xj6Rwu7m3QGe17FFuQbiZNRY9NVZCz8NW5apbKH05wAeTgOX_agM1dGboz-dFxVWLA1ogwaL_C1xIelvfgxyi0qrTZpVXbpofUPn6WLx2Tr2X1h_jF3n5qtPUJ6c5EG1AKFujF8kpTU8JC9_OFWAeWKgKuxSDUY-SiY8nIKk07UFPtdB1wIe1U6oU0_ocjMbAxcOD8J8Xy-NJuuzGWEuov20cSeb82G5zXyCj6rU_MkgUmYHsrc3ZIt5MgT2JErtFvEMh9ZQfXbw3k7Qy2ENvd2j5zeTBm-nbCzISYrD9nsAZEBliSg0ELtleoHcQNCqOpqUdyy13OQXsS-ONIuDymHJa07-2dJsDoMS5iy3ktausgpCX81DkTpu-uD9z1qgEKM1sKjyQVM_QVsF5ZcaPI0WZ30k5HTaWMCjaOrBtZtNIBp40hi4v49A-UCc5n</tokenD>
+    <tokenM>eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTM5OTkyMDB9.UaMHARJqeQ8WQ1vmV9j8IAOC487Ur2lE7grw8XXtOf-QGOBQ8taJ9VPV2rOJt9NqW9hkqZHPt5Iwpe3kk4ixmgmyNW0ZfRhE_PwMqpjTpqoggBEjF7cX8CeZWY-71dZ1O-Erc67ZuUuqUhsgZfxwkU_24Vy9IvYzlCdY75JJI6B3cIB8nOsPrMgIqlhqHVjOpGveIEZKMzjaVyJt2Uu74aA6pwqCQLLC7VG9VooTqI-9c_ypZJEfcf78b7W2h1lPh-drvTEmyz2N02zmflWgtmSx93dod_EjcKFI3LC292PlGCQphOSSrPv2WRTHgOimuZgI1-TD2wbLlnFjcruL8OeV_v0e7MVolhkrBqZ58wkCwUjPggDGN1xjgsHxRxbvtUck_W408w9FGkD3ARahm6axNJjQwZlEUVUuyazkrrEsTc2Ci1MHE9c32gjACSq17ktI-rqytFGZTXqMqhQWvNevPgDCiWlZHgvkPYJaDzRD4AbYQjNRZSKn9MXiSQiK</tokenM>
+    <lastMessage>
+      <Message>
+        <newsID>0</newsID>
+        <newsExp>0</newsExp>
+        <serverDate>2025-07-29</serverDate>
+      </Message>
+    </lastMessage>
+    <installDate>2025-07-29</installDate>
+    <didTutorial>true</didTutorial>
+  </component>
+</application>
