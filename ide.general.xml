@@ -10,7 +10,6 @@
     <entry key="editor.minimap.enabled" value="true" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
-    <entry key="llm.chat.context.images.enabled" value="true" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
