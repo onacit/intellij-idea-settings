@@ -45,7 +45,6 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>dfcfdfcbdf9bdf9edfcbdf9cdf99dfc9df92dfcedf9cdf93dfcbdf92dfcfdfcfdfc8df93df9edf98df9cdf93dfcedfcfdf9adfc9dfcbdf9fdfc9df92dfcfdf9cdf99df93df9bdfcfdf93df92dfccdf9d</token>
           <option name="name" value="sonarcloud" />
           <organizationKey>jinahya-github</organizationKey>
         </SonarQubeServer>
