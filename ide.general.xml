@@ -12,6 +12,7 @@
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="llm.rules.refresh.interval" value="10" source="MANAGER" />
     <entry key="llm.selector.config.refresh.interval" value="10" source="MANAGER" />
+    <entry key="completion.cloud.adaptive.debounce.is.active" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
