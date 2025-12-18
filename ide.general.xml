@@ -10,9 +10,8 @@
     <entry key="editor.minimap.enabled" value="true" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
-    <entry key="llm.rules.refresh.interval" value="10" source="MANAGER" />
-    <entry key="llm.selector.config.refresh.interval" value="10" source="MANAGER" />
-    <entry key="completion.cloud.adaptive.debounce.is.active" value="true" source="SYSTEM" />
+    <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
+    <entry key="jetbrains.security.package-checker.enableNpmTransitiveDependencies" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

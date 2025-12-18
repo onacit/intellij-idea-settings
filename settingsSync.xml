@@ -5,8 +5,36 @@
         <entry key="PLUGINS">
           <value>
             <list>
+              <option value="Dart" />
+              <option value="GenerateSerialVersionUID" />
+              <option value="JavaScriptDebugger" />
+              <option value="Referencer" />
+              <option value="com.atlassian.bitbucket.references" />
+              <option value="com.baomidou.plugin.idea.mybatisx" />
+              <option value="com.intellij.guice" />
+              <option value="com.intellij.ideolog" />
+              <option value="com.intellij.javaee" />
               <option value="com.intellij.jsf" />
+              <option value="com.intellij.kubernetes" />
+              <option value="com.intellij.lang.liquid" />
+              <option value="com.intellij.mermaid" />
+              <option value="com.intellij.microservices.ui" />
+              <option value="com.intellij.plugins.emacskeymap" />
+              <option value="com.intellij.react" />
+              <option value="com.intellij.spring" />
+              <option value="com.intellij.spring.debugger" />
               <option value="com.intellij.spring.graphql" />
+              <option value="com.intellij.spring.websocket" />
+              <option value="com.intellij.swagger" />
+              <option value="com.intellij.velocity" />
+              <option value="com.jetbrains.restClient" />
+              <option value="mobi.hsz.idea.gitignore" />
+              <option value="org.asciidoctor.intellij.asciidoc" />
+              <option value="org.dpytel.intellij.plugin.maventest" />
+              <option value="org.intellij.scala" />
+              <option value="org.jetbrains.plugins.vue" />
+              <option value="org.mapstruct.intellij" />
+              <option value="ru.adelf.idea.dotenv" />
             </list>
           </value>
         </entry>
