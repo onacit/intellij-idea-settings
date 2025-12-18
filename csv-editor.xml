@@ -2,5 +2,6 @@
   <component name="CsvEditorSettings">
     <option name="CURRENT_PLUGIN_VERSION" value="4.1.0" />
     <option name="CARET_ROW_SHOWN" value="true" />
+    <option name="USE_SOFT_WRAP" value="true" />
   </component>
 </application>
