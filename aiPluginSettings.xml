@@ -3,6 +3,11 @@
     <option name="enableAutomaticGenerationOutlines" value="true" />
     <option name="gotItToolTipsShown" value="true" />
     <option name="lastLoggedInEmail" value="onacit@gmail.com" />
+    <option name="lastUpsellNotificationTimestampByEmail">
+      <map>
+        <entry key="onacit@gmail.com" value="1766059917179" />
+      </map>
+    </option>
     <option name="shortcutNotificationShown" value="true" />
   </component>
 </application>
