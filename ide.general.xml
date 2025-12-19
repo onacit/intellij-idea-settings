@@ -11,7 +11,6 @@
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enableNpmTransitiveDependencies" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
