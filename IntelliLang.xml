@@ -1,20 +1,86 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="http-url-reference" injector-id="java">
-      <display-name>Android Volley (com.android.volley)</display-name>
+    <injection language="SQL" injector-id="java">
+      <display-name>JDBI (org.jdbi.v3.core)</display-name>
+      <ignore-pattern>&lt;[a-zA-Z0-9_]+&gt;</ignore-pattern>
       <single-file value="true" />
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("ImageRequest").definedInClass("com.android.volley.toolbox.ImageRequest"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("JsonArrayRequest").definedInClass("com.android.volley.toolbox.JsonArrayRequest"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("JsonObjectRequest").withParameterCount(4).definedInClass("com.android.volley.toolbox.JsonObjectRequest"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringRequest").withParameterCount(3).definedInClass("com.android.volley.toolbox.StringRequest"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("JsonObjectRequest").withParameterCount(5).definedInClass("com.android.volley.toolbox.JsonObjectRequest"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("StringRequest").withParameterCount(4).definedInClass("com.android.volley.toolbox.StringRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("add").withParameters("java.lang.String").definedInClass("org.jdbi.v3.core.statement.Batch"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareBatch", "createQuery", "createCall", "createScript", "createUpdate").withParameters("java.lang.String").definedInClass("org.jdbi.v3.core.Handle"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("select", "execute").withParameterCount(2).definedInClass("org.jdbi.v3.core.Handle"))]]></place>
     </injection>
-    <injection language="http-url-reference" injector-id="java">
-      <display-name>OkHttp (okhttp3)</display-name>
+    <injection language="JSON5" injector-id="java">
+      <display-name>Query (org.springframework.data.mongodb.repository)</display-name>
+      <ignore-pattern>:#\{#\w+\}</ignore-pattern>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("collation").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
+      <place><![CDATA[psiMethod().withName("fields").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
+      <place><![CDATA[psiMethod().withName("sort").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
+    </injection>
+    <injection language="RoomSql" injector-id="java">
+      <display-name>Room Query annotation</display-name>
       <single-file value="true" />
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse", "get", "newBuilder").withParameters("java.lang.String").definedInClass("okhttp3.HttpUrl"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("url").withParameters("java.lang.String").definedInClass("okhttp3.Request.Builder"))]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("android.arch.persistence.room.DatabaseView")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("android.arch.persistence.room.Query")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("androidx.room.DatabaseView")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("androidx.room.Query")]]></place>
+    </injection>
+    <injection language="RoomSql" injector-id="java">
+      <display-name>SQLiteDatabase methods</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("compileStatement").withParameters("java.lang.String").definedInClass("android.arch.persistence.db.SupportSQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("compileStatement").withParameters("java.lang.String").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("compileStatement").withParameters("java.lang.String").definedInClass("androidx.sqlite.db.SupportSQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String").definedInClass("android.arch.persistence.db.SupportSQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String").definedInClass("androidx.sqlite.db.SupportSQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("android.arch.persistence.db.SupportSQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("androidx.sqlite.db.SupportSQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("rawQuery").withParameters("java.lang.String", "java.lang.String[]").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("rawQuery").withParameters("java.lang.String", "java.lang.String[]", "android.os.CancellationSignal").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("validateSql").withParameters("java.lang.String", "android.os.CancellationSignal").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("rawQueryWithFactory").withParameters("android.database.sqlite.SQLiteDatabase.CursorFactory", "java.lang.String", "java.lang.String[]", "java.lang.String").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("rawQueryWithFactory").withParameters("android.database.sqlite.SQLiteDatabase.CursorFactory", "java.lang.String", "java.lang.String[]", "java.lang.String", "android.os.CancellationSignal").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>Session.createQuery (org.hibernate)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery", "createSelectionQuery", "createMutationQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="kotlin">
+      <display-name>Kotlin</display-name>
+      <single-file value="true" />
+      <place><![CDATA[kotlinParameter().ofFunction(0, kotlinFunction().withName("Regex").definedInClass("kotlin.text.Regex"))]]></place>
+      <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toPattern").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
+      <place><![CDATA[receiver().ofFunction(kotlinFunction().withName("toRegex").withReceiver("kotlin.String").definedInPackage("kotlin.text"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="sql">
+      <display-name>Oracle JSON</display-name>
+      <single-file value="true" />
+      <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(0, -1, 1, sqlFunctionCall().name("json_array"))]]></place>
+      <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(0, sqlFunctionCall().name("json_query", "json_value", "json_array_agg"))]]></place>
+      <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(0, sqlFunctionCall().name("json_table"))]]></place>
+      <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(1, -1, 2, sqlFunctionCall().name("json_object"))]]></place>
+      <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(1, sqlFunctionCall().name("json_object_agg"))]]></place>
+      <place><![CDATA[sqlExpression().forDialects("Oracle").functionArgument(0, -1, 1, sqlFunctionCall().name("json_object")).withNextMeaningfulSibling(leafTokens("format"), 0).withNextMeaningfulSibling(leafTokens("json"), 1)]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>IntelliJ IDEA injection patterns</display-name>
+      <single-file value="true" />
+      <place><![CDATA[xmlTag().withLocalName("ignore-pattern").withParent(xmlTag().withLocalName("injection").withParent(xmlTag().withLocalName("component")))]]></place>
+      <place><![CDATA[xmlTag().withLocalName("value-pattern").withParent(xmlTag().withLocalName("injection").withParent(xmlTag().withLocalName("component")))]]></place>
+    </injection>
+    <injection language="Groovy" injector-id="xml">
+      <display-name>IntelliJ IDEA pattern</display-name>
+      <single-file value="true" />
+      <place><![CDATA[xmlTag().withLocalName("pattern").inside(xmlTag().withLocalName("idea-plugin"))]]></place>
+      <place><![CDATA[xmlTag().withLocalName("place").withParent(xmlTag().withLocalName("injection").withParent(xmlTag().withLocalName("component")))]]></place>
     </injection>
   </component>
 </application>
