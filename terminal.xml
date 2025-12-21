@@ -1,7 +1,7 @@
 <application>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 1099,
-  "completionPopupShownTimes": 276,
+  "enterKeyPressedTimes": 1110,
+  "completionPopupShownTimes": 279,
   "completionItemChosenTimes": 11
 }]]></component>
   <component name="TerminalOptionsProvider">
