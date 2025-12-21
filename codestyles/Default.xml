@@ -25,6 +25,7 @@
     </formatting-settings>
   </DBN-SQL>
   <JavaCodeStyleSettings>
+    <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD_WITH_ANNOTATIONS" value="1" />
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
@@ -51,6 +52,7 @@
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
   </codeStyleSettings>
