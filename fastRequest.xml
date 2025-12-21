@@ -1,0 +1,176 @@
+<application>
+  <component name="fastRequest">
+    <option name="codegeexPromptCount" value="2" />
+    <option name="commonHeaderList">
+      <list>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/plain" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="text/html" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/xml" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Content-Type" />
+          <option name="value" value="application/javascript" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Authorization" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Cookie" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="User-Agent" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="defaultDataMappingList">
+      <list>
+        <DataMapping>
+          <option name="type" value="byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Byte" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Short" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="int" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Integer" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Long" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="char" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Character" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Float" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Double" />
+          <option name="value" value="1" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.lang.Boolean" />
+          <option name="value" value="true" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="java.math.BigDecimal" />
+          <option name="value" value="1" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="functionMethodList">
+      <list>
+        <CustomFunction>
+          <option name="desc" value="random an int" />
+          <option name="name" value="{{$randomInt}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a boolean" />
+          <option name="name" value="{{$randomBoolean}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a float" />
+          <option name="name" value="{{$randomFloat}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a char" />
+          <option name="name" value="{{$randomChar}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a chinese char" />
+          <option name="name" value="{{$randomChineseChar}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a uuid" />
+          <option name="name" value="{{$uuid}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random 10-length string" />
+          <option name="name" value="{{$randomString}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Get current date time" />
+          <option name="name" value="{{$dateTime}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Get current date" />
+          <option name="name" value="{{$date}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Get current time" />
+          <option name="name" value="{{$time}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Get current time millis" />
+          <option name="name" value="{{$currentTimeMillis}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random an address" />
+          <option name="name" value="{{$address}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a name" />
+          <option name="name" value="{{$name}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random an email" />
+          <option name="name" value="{{$email}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a phone" />
+          <option name="name" value="{{$phone}}" />
+        </CustomFunction>
+        <CustomFunction>
+          <option name="desc" value="Random a password" />
+          <option name="name" value="{{$password}}" />
+        </CustomFunction>
+      </list>
+    </option>
+    <option name="randomStringLength" value="5" />
+    <option name="statisticsDate" value="2025-12-21 21:28:14" />
+  </component>
+</application>
