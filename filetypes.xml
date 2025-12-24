@@ -8,7 +8,6 @@
       <mapping pattern="branch_custom_export_ls_wstyle" type="AUTO_DETECTED" />
       <mapping pattern="mockito-extensions" type="AUTO_DETECTED" />
       <mapping ext="mwb" type="AUTO_DETECTED" />
-      <mapping ext="tsv" type="CSV File" />
       <mapping ext="jsonpb" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep2" type="PLAIN_TEXT" />
