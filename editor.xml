@@ -56,7 +56,7 @@
         <entry key="groovy.local.variable.implicit.types" value="true" />
         <entry key="java.annotation.hints" value="true" />
         <entry key="java.implicit.lambdaParameter" value="true" />
-        <entry key="java.implicit.types" value="false" />
+        <entry key="java.implicit.types" value="true" />
         <entry key="java.method.chains" value="true" />
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
@@ -106,9 +106,6 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
-  </component>
-  <component name="JetEditorOptions">
-    <option name="donTShowConversionDialog" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
