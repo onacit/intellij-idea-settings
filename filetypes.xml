@@ -43,6 +43,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="csv" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="doc" approved="true" type="Native" />
       <removed_mapping ext="doc" approved="true" type="Native" />
       <removed_mapping ext="doc" approved="true" type="Native" />
@@ -94,6 +95,7 @@
       <removed_mapping ext="vw" approved="true" type="SQL" />
       <removed_mapping ext="vw" approved="true" type="SQL" />
       <removed_mapping ext="vw" approved="true" type="SQL" />
+      <removed_mapping ext="xlsx" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="xlsx" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="xlsx" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="xlsx" approved="true" type="Excel File" />
