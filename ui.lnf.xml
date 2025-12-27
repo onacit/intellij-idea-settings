@@ -1,4 +1,14 @@
 <application>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules>
+      <NestingRule child-file-suffix=".dart.js" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js.map" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js.deps" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".dart.js.tar.gz" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".module" parent-file-suffix=".dart" />
+      <NestingRule child-file-suffix=".json.graphql" parent-file-suffix=".json" />
+    </nesting-rules>
+  </component>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="8192" />
