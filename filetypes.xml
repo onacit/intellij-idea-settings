@@ -4,13 +4,16 @@
     <extensionMap>
       <mapping pattern="05_chapter01_01asciidoc" type="AUTO_DETECTED" />
       <mapping pattern="branch_custom_export_ls_wemakeprice" type="AUTO_DETECTED" />
+      <mapping pattern="01-glossary.md" type="AUTO_DETECTED" />
       <mapping pattern="branch_custom_export_ls_wtourcul" type="AUTO_DETECTED" />
+      <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="branch_custom_export_ls_wstyle" type="AUTO_DETECTED" />
       <mapping pattern="mockito-extensions" type="AUTO_DETECTED" />
       <mapping ext="mwb" type="AUTO_DETECTED" />
       <mapping ext="jsonpb" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep2" type="PLAIN_TEXT" />
+      <mapping pattern=".api.properties.template" type="PLAIN_TEXT" />
       <mapping pattern=".see_bidirectional_many_to_one" type="PLAIN_TEXT" />
       <mapping pattern=".r2dbc.properties.template" type="PLAIN_TEXT" />
       <mapping ext="lea" type="PLAIN_TEXT" />
@@ -27,6 +30,7 @@
       <mapping ext="yml_" type="PLAIN_TEXT" />
       <mapping ext="yml_bak" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="wadl" type="XML" />
       <mapping pattern="*.yml.example" type="YAML" />
       <mapping ext="binpb" type="protobuf" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -53,6 +57,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Markdown Artifact" />
       <removed_mapping ext="patch" approved="true" type="PATCH" />
       <removed_mapping ext="patch" approved="true" type="PATCH" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
