@@ -10,8 +10,6 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="commenced|Returns a predicate which evaluates to if the specified point account bucket is commenced by the specified instant." />
-            <option value="commenced|not commenced yet" />
             <option value="github" />
           </set>
         </option>

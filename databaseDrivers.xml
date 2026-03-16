@@ -7,7 +7,7 @@
       <artifact id="Oracle" name="Oracle" use="true" version="23.5" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="9.5.0" />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="mysql_aurora.aws_wrapper">
       <artifact id="AWS JDBC Wrapper for MySQL" name="AWS JDBC Wrapper for MySQL" use="true" version="2.3.7" />
