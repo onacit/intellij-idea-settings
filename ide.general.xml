@@ -11,6 +11,7 @@
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
+    <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
