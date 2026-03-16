@@ -10,6 +10,7 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
