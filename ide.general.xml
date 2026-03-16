@@ -13,6 +13,7 @@
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="maven.packagesearch.enabled" value="false" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="i18n.locale" value="en" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
