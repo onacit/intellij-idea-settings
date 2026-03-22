@@ -1,0 +1,17 @@
+<application>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsFirstRestartAfterQInstall" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="q">
+    <option name="QMigrationNotificationShownOnce" value="true" />
+    <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="qNotificationEtag">
+    <option name="etag" value="&quot;8155ead2d484a2daeb03438d50c02e6d&quot;" />
+  </component>
+</application>
