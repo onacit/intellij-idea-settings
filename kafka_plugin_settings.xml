@@ -1,5 +1,6 @@
 <application>
   <component name="ConfluentKafkaPluginSettings">
+    <option name="machineId" value="444bc67b-6edc-4a87-bfa6-b025f9271de0" />
     <option name="rebrandNotificationShown" value="true" />
   </component>
 </application>
