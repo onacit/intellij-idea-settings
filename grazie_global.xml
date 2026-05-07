@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="github" />
+            <option value="Argon2id" />
           </set>
         </option>
       </SuppressingContext>
