@@ -10,8 +10,8 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="github" />
             <option value="Argon2id" />
+            <option value="github" />
           </set>
         </option>
       </SuppressingContext>
