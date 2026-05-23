@@ -5,7 +5,6 @@
       <name>org.junit.jupiter.api.Assertions</name>
       <name>org.junit.jupiter.api.DynamicTest</name>
       <name>org.mockito.AgumentCaptor</name>
-      <name>org.mockito.ArgumentMatchers</name>
       <name>org.mockito.Mockito</name>
     </included-static-names>
   </component>
