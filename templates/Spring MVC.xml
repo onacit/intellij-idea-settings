@@ -6,7 +6,6 @@
     <variable name="METHOD_NAME" expression="" defaultValue="&quot;request&quot;" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="getm" value="@org.springframework.web.bind.annotation.GetMapping(&quot;$PATH$&quot;)&#10;public org.springframework.http.ResponseEntity&lt;$RETURN_TYPE$&gt; $METHOD_NAME$($ARGUMENTS$) {&#10;    return org.springframework.http.ResponseEntity.ok(&quot;$RETURN_VALUE$&quot;);&#10;}" description="Spring MVC '@GetMapping' template" toReformat="true" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="/" alwaysStopAt="true" />
@@ -14,7 +13,6 @@
     <variable name="METHOD_NAME" expression="" defaultValue="&quot;get&quot;" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="deletem" value="@org.springframework.web.bind.annotation.DeleteMapping(&quot;$PATH$&quot;)&#10;public org.springframework.http.ResponseEntity&lt;$RETURN_TYPE$&gt; $METHOD_NAME$($ARGUMENTS$) {&#10;    return org.springframework.http.ResponseEntity.ok(&quot;$RETURN_VALUE$&quot;);&#10;}" description="Spring MVC '@DeleteMapping' template" toReformat="true" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="/" alwaysStopAt="true" />
@@ -22,7 +20,6 @@
     <variable name="METHOD_NAME" expression="" defaultValue="&quot;delete&quot;" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="patchm" value="@org.springframework.web.bind.annotation.PatchMapping(&quot;$PATH$&quot;)&#10;public org.springframework.http.ResponseEntity&lt;$RETURN_TYPE$&gt; $METHOD_NAME$($ARGUMENTS$) {&#10;    return org.springframework.http.ResponseEntity.ok(&quot;$RETURN_VALUE$&quot;);&#10;}" description="Spring MVC '@PatchMapping' template" toReformat="true" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="/" alwaysStopAt="true" />
@@ -30,7 +27,6 @@
     <variable name="METHOD_NAME" expression="" defaultValue="&quot;patch&quot;" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="postm" value="@org.springframework.web.bind.annotation.PostMapping(&quot;$PATH$&quot;)&#10;public org.springframework.http.ResponseEntity&lt;$RETURN_TYPE$&gt; $METHOD_NAME$($ARGUMENTS$) {&#10;    return org.springframework.http.ResponseEntity.ok(&quot;$RETURN_VALUE$&quot;);&#10;}" description="Spring MVC '@PostMapping' template" toReformat="true" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="/" alwaysStopAt="true" />
@@ -38,7 +34,6 @@
     <variable name="METHOD_NAME" expression="" defaultValue="&quot;post&quot;" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="putm" value="@org.springframework.web.bind.annotation.PutMapping(&quot;$PATH$&quot;)&#10;public org.springframework.http.ResponseEntity&lt;$RETURN_TYPE$&gt; $METHOD_NAME$($ARGUMENTS$) {&#10;    return org.springframework.http.ResponseEntity.ok(&quot;$RETURN_VALUE$&quot;);&#10;}" description="Spring MVC '@PutMapping' template" toReformat="true" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="/" alwaysStopAt="true" />
@@ -46,6 +41,5 @@
     <variable name="METHOD_NAME" expression="" defaultValue="&quot;put&quot;" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
