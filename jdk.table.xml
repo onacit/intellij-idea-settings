@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="temurin-11" />
       <type value="JavaSDK" />
-      <version value="Eclipse Temurin version 11.0.14" />
+      <version value="Eclipse Temurin 11.0.31 - aarch64" />
       <homePath value="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
