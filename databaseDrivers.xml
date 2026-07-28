@@ -3,6 +3,12 @@
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
     </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
+    </driver>
+    <driver id="h2.unified">
+      <artifact id="H2" name="H2" use="true" version="2.1.210" />
+    </driver>
     <driver id="oracle.19">
       <artifact id="Oracle" name="Oracle" use="true" version="23.5" />
     </driver>
@@ -17,12 +23,6 @@
     </driver>
     <driver id="mysql_aurora">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" channel="MariaDB_2.X" rolling="true" use="true" version="2.7.3" />
-    </driver>
-    <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
-    </driver>
-    <driver id="h2.unified">
-      <artifact id="H2" name="H2" use="true" version="2.1.210" />
     </driver>
   </component>
 </application>
