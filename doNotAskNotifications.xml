@@ -1,0 +1,10 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="Enable google-java-format" value="Enable google-java-format" />
+        <entry key="Services Tool Window" value="Services tool window available" />
+      </map>
+    </option>
+  </component>
+</application>
