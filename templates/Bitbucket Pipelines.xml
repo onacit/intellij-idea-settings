@@ -3,6 +3,5 @@
     <variable name="NAME_PATTERN" expression="" defaultValue="&quot;name_or_pattern&quot;" alwaysStopAt="true" />
     <variable name="STEP_NAME" expression="" defaultValue="&quot;Build&quot;" alwaysStopAt="true" />
     <variable name="COMMAND" expression="" defaultValue="&quot;echo \&quot;Hello world\&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
