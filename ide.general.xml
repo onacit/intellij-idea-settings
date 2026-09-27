@@ -17,6 +17,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Memory" value="true" />
         <entry key="aws.codewhisperer" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
