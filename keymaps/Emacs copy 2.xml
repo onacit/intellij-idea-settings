@@ -2,6 +2,7 @@
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
@@ -13,6 +14,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="RunAnything" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
